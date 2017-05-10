@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>image_system_lecture</name>
+  <version>0.0.0</version>
+  <description>The image_system_lecture package</description>
+
+  <maintainer email="furushchev@jsk.imi.i.u-tokyo.ac.jp">Yuki Furuta</maintainer>
+  <license>BSD</license>
+  <author email="furushchev@jsk.imi.i.u-tokyo.ac.jp">Yuki Furuta</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>cv_bridge</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>uvc_camera</run_depend>
+  <export>
+  </export>
+</package>
